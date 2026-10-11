@@ -1,0 +1,21 @@
+Model,Accuracy,F1
+Logistic Regression,0.9825,0.9861
+SVM (RBF Kernel),0.9825,0.9861
+Linear SVM,0.9649,0.9722
+MLP,0.9649,0.9718
+SGD Classifier,0.9649,0.9718
+AdaBoost,0.9561,0.966
+Ridge Classifier,0.9561,0.9664
+LDA,0.9561,0.966
+Random Forest,0.9561,0.9655
+Gradient Boosting,0.9561,0.966
+KNN,0.9561,0.9655
+Extra Trees,0.9561,0.9655
+Perceptron,0.9474,0.9577
+Nearest Centroid,0.9386,0.9524
+Bagging,0.9298,0.9444
+Gaussian NB,0.9298,0.9444
+Bernoulli NB,0.9298,0.9437
+Decision Tree,0.9123,0.9286
+Multinomial NB,0.8596,0.9
+Radius Neighbors,0.7018,0.809
